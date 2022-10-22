@@ -1,0 +1,15 @@
+---
+title: "Decentralized Finance  DEFi"
+date: 2020-10-23
+thumbnail: ""
+tags:
+  - "defi"
+  - "Decentralized Finance"
+categories:
+  - "Thoughts on Global Agenda"
+menu: main
+---
+
+Decentralized Finance  [DEFi](https://arzualvan.com/decentralized-finance-defi/), The system we are in, which we can also call the money economy, consists of centralized structures to a large extent. We see these central structures as large financial intermediary institutions both in factories with large production capacity in real production and in financial markets. In short, what we call money is a centrally managed exchange tool. This system is about to be left behind now. Thus, in an increasingly digital world, money has also started to be digitalized. Supported by digital infrastructures such as blockchain, crypto coins seem to be candidates for decentralized exchange tools in the system. The best known of these new forms of money is Bitcoin. Bitcoin is a decentralized money that can be transferred from one person to another without the need for intermediary institutions with its decentralization feature. In other words, many financial transactions such as lending, evaluation of savings, insurances, real estate purchases are carried out by intermediary institutions. In this central system managed by a single center or person / s, we witness that incidents such as fraud, mismanagement and corruption occur frequently.
+
+On the other hand, we cannot see such problems in a decentralized system. The transactions listed above can also be performed in a decentralized system. The only difference is that there is no single manager or executive units in this system. In this system, transactions are made transparently in front of everyone and are recorded by everyone. In this way, there is no need for a notary public. [Cryptocurrencies](https://arzualvan.com/cryptocurrencies-energy-consumption/) traded on decentralized platforms are decentralized. However, the very volatility of these currencies creates doubts about their reliability. Therefore, many cryptocurrencies are valued with the dollar, which is the most valid fiat currency in the system. In this way, they gain stability by being dependent on the dollar. In this case, considering the rapid pace of the system towards crisis, another question is how stable the dollar, which is the reserve currency, can remain. In the central system, the requirements such as opening an account and identity verification for financial transactions supported by infrastructures such as block chain are eliminated. In this way, besides the transparency given by decentralization, unnecessary procedures are eliminated. In decentralized systems, debt demanders and lenders can meet on the same platform without the need for another intermediary. Here, the cryptocurrency owned as collateral for debt is shown and debt dealing can be done in a very practical and autonomous way. Finally, the most important advantages of decentralized systems can be seen as the first steps of the future financial system, as they are open to everyone, flexible, transparent and every transaction is registered and approved by everyone.
