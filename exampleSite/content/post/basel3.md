@@ -1,7 +1,7 @@
 ---
 title: Basel III
 description: Basel III aims to create a flexible banking system that supports the real economy..
-date: 2018-04-16
+date: 2022-10-22
 categories:
   - "Thoughts on Global Agenda"
 tags:
