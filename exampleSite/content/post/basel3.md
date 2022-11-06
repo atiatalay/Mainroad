@@ -7,6 +7,7 @@ categories:
 tags:
   - "basel 3"
   - "Basel III"
+menu: main
 ---
 
 The internationally accepted measures that came into effect with the 2008 financial crisis to control and regulate the financial statements of banks and reduce risks are called Basel. [Basel III](https://arzualvan.com/basel-iii-gold/) aims to create a flexible banking system that supports the real economy.
