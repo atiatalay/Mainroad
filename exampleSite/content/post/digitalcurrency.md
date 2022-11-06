@@ -1,7 +1,7 @@
 ---
 title: Digital Currency
 description: Digital currencies can be considered as important technological developments that transform the money-based economic system we are in. So what exactly is this thing called digital money?
-date: 2022-10-22
+date: 2022-11-04
 categories:
   - "Thoughts on Global Agenda"
 tags:
