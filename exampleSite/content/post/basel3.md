@@ -4,6 +4,7 @@ description: Basel III aims to create a flexible banking system that supports th
 date: 2022-10-22
 categories:
   - "Thoughts on Global Agenda"
+image: "images/basel3.jpg"
 tags:
   - "basel 3"
   - "Basel III"
